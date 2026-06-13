@@ -1,0 +1,1 @@
+Este es un programa hecho con Python y PyQt5, para abrir este programa se necesita un compilador, yo utilizo visual estudio, este programa tiene como función crear, guardar y eliminar contraseñas que quieras y al momento de guardar una contraseña se te hace un archivo txt con las contraseñas 
